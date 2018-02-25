@@ -4,3 +4,10 @@
 [submodule "themes/hugo-future-imperfect"]
 	path = themes/hugo-future-imperfect
 	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "public"]
+	path = public
+	url = git@github.com:lonepie/lonepie.github.io.git
+	branch = master

@@ -1,7 +1,0 @@
-baseURL = "http://lonepie.github.io/"
-languageCode = "en-us"
-title = "/dev/null"
-theme = "hyde"
-
-[params]
-  themeColor = "theme-base-0e"
