@@ -1,7 +1,7 @@
-baseurl = "https://username.github.io"
+baseurl = "https://lonepie.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Beautiful Hugo"
+title = "/home/lonepie"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "lonepie's projects and/or blog?"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -38,15 +38,15 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
+  name = "Jonathon Rogers"
+  website = "lonepie.github.io"
+  email = "lonepie@gmail.com"
   facebook = "username"
   googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
-  github = "username"
+  github = "lonepie"
   gitlab = "username"
-  twitter = "username"
-  reddit = "username"
+  twitter = "lonepie"
+  reddit = "lonepie"
   linkedin = "username"
   xing = "username"
   stackoverflow = "users/XXXXXXX/username"
