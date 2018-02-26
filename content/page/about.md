@@ -1,16 +1,11 @@
 ---
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What is a "lone pie"?
 comments: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm glad that you asked! You see, back in the early days of online gaming, I used the handle, *Lone_Wolf*. It wasn't long until I found out that many other people were using that handle as well. I needed something unique. Pie happens to be one of my favourite things. The rest, as they say, is history.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### About me
+- I have a decade of professional web development experience and a lifetime of general computer experience (I was practically raised by my computer).
+- I like pie.

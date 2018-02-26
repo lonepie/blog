@@ -10,15 +10,15 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+disqusShortname = "home-lonepie"
+googleAnalytics = "UA-114764190-1"
 
 [Params]
-  subtitle = "lonepie's projects and/or blog?"
-  logo = "img/avatar-icon.png"
+  subtitle = "my projects and/or blog and/or ALL THE THINGS!"
+  logo = "img/fry.jpg"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
-  commit = false
+  commit = "https://github.com/lonepie/blog/tree/"
   rss = true
   comments = true
   readingTime = true
@@ -71,28 +71,28 @@ pygmentsCodefencesGuessSyntax = true
     url = "page/about/"
     weight = 3
 
-[[menu.main]]
-    identifier = "samples"
-    name = "Samples"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
-    weight = 1
-
-[[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
+# [[menu.main]]
+#     identifier = "samples"
+#     name = "Samples"
+#     weight = 2
+#
+# [[menu.main]]
+#     parent = "samples"
+#     name = "Big Image Sample"
+#     url = "post/2017-03-07-bigimg-sample"
+#     weight = 1
+#
+# [[menu.main]]
+#     parent = "samples"
+#     name = "Math Sample"
+#     url = "post/2017-03-05-math-sample"
+#     weight = 2
+#
+# [[menu.main]]
+#     parent = "samples"
+#     name = "Code Sample"
+#     url = "post/2016-03-08-code-sample"
+#     weight = 3
 
 [[menu.main]]
     name = "Tags"
