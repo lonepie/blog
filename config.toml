@@ -15,7 +15,8 @@ googleAnalytics = "UA-114764190-1"
 
 [Params]
   subtitle = "my projects and/or blog and/or ALL THE THINGS!"
-  logo = "img/fry.jpg"
+#   logo = "img/fry.jpg"
+  logo = "https://github.com/lonepie.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = "https://github.com/lonepie/blog/tree/"
