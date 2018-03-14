@@ -4,7 +4,7 @@ date: 2018-03-11T01:44:37-05:00
 tags: ["project", "mintty-quake-console"]
 ---
 
-Supplementing the wsltty support from the v1.6 release; v1.7 adds some small new features and fixes. Read about them after the jump.
+Supplementing the wsltty support from the v1.6 release; v1.7 adds some small new features and fixes to [**mintty-quake-console**](/project/mintty-quake-console). Read about them after the jump.
 
 <!--more-->
 
