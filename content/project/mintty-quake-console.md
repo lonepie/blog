@@ -3,7 +3,7 @@ title: mintty-quake-console
 subtitle: AutoHotkey script to emulate a Quake-style console with mintty
 date: 2018-02-26
 tags: ["project"]
-bigimg: [{src: "/static/img/screenshot.png", desc: "mintty-quake-console"}]
+bigimg: [{src: "/img/mqc-banner.jpg", desc: "mintty-quake-console"}]
 ---
 
 ### About 
@@ -20,4 +20,5 @@ Life events got in the way and I had to stop development on it for a number of y
 _Note: The animation is actually much more fluid than shown here._
 
 [Project Page](https://lonepie.github.io/mintty-quake-console)
+
 [GitHub Page](https://github.com/lonepie/mintty-quake-console)
