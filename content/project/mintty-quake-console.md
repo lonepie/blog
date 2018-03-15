@@ -19,6 +19,7 @@ Life events got in the way and I had to stop development on it for a number of y
 ![mintty-quake-console screencap](https://lonepie.github.io/mintty-quake-console/assets/img/optimized.gif)
 _Note: The animation is actually much more fluid than shown here._
 
-[Project Page](https://lonepie.github.io/mintty-quake-console)
+### Links
 
-[GitHub Page](https://github.com/lonepie/mintty-quake-console)
+- [Project Page](https://lonepie.github.io/mintty-quake-console)
+- [GitHub Page](https://github.com/lonepie/mintty-quake-console)
