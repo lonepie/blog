@@ -3,7 +3,7 @@ title: mintty-quake-console
 subtitle: AutoHotkey script to emulate a Quake-style console with mintty
 date: 2018-02-26
 tags: ["project"]
-bigimg: [{src: "/img/mqc-banner.jpg", desc: ""}]
+bigimg: [{src: "/img/mqc-banner-whoa.jpg", desc: ""}]
 ---
 
 ### About 
